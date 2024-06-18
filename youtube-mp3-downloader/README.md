@@ -25,5 +25,5 @@ This project is a simple React application that allows users to convert YouTube 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/youtube-mp3-downloader.git
+   git clone https://github.com/Pranshu-Ghub25/youtube-mp3-downloader.git
    cd youtube-mp3-downloader
