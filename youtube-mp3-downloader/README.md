@@ -1,8 +1,29 @@
-# React + Vite
+# YouTube MP3 Downloader
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React application that allows users to convert YouTube videos to MP3 format. Users can enter a YouTube video URL, fetch the song using an API, and download the MP3 file directly from the application.
+## Live Link :  https://down-yt.netlify.app/
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Enter a YouTube video URL to convert.
+- Fetch the MP3 file using the YouTube-MP3 API.
+- Download the MP3 file directly from the application.
+
+## Technologies Used
+
+- React
+- Axios
+- YouTube-MP3 API
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed on your machine.
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/youtube-mp3-downloader.git
+   cd youtube-mp3-downloader
